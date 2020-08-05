@@ -1,0 +1,6 @@
+import mystuffmodule
+mystuff = {'apple': "I AM APPLES!"}
+print(mystuff['apple'])
+
+mystuffmodule.apple()
+print(mystuffmodule.tangerine)
